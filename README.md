@@ -1,0 +1,1 @@
+# live-training-exploring-world-cup-data-in-power-bi
